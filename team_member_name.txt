@@ -1,2 +1,3 @@
 # poner el nombre y apellido de todo los miembros del equipo #
 Luis Carlos Vteri 
+Juan Andres Viteri
